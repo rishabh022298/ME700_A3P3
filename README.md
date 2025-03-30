@@ -44,7 +44,7 @@ This repository contains a quick overview of a [Finite Element Method (FEM) solv
 ![Workflow Summary](summary.png)
 
 ### Overview of the backend processes
-This section demonstrates the functioning of FEM solver at the backend level (ommiting the functioning and usage of helper functions which are discussed in the later sections.)
+This section demonstrates the functioning of FEM solver at the backend level (ommiting the functioning and usage of helper functions which will be discussed later if required.)
 ![Backend Summary](backend_overview.png)
 
 ## Following an Entry Point
