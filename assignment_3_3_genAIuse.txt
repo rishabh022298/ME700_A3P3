@@ -1,0 +1,2 @@
+1. GPT 4-o was used to create the initial structure of the README file.
+2. GPT 4-o was used to generate the first dataflow chart.
